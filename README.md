@@ -38,7 +38,13 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
     <img src="https://skillicons.dev/icons?i=kafka,redis,docker,jenkins,aws,gcp,bitbucket,git,github,linux,idea,vscode&theme=dark" />
-    <img src="https://img.shields.io/badge/_-333333?style=for-the-badge&logo=apachehive&logoColor=green"/><br>
 </div>
 <br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/venvVarun/venvVarun/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 <hr/>
