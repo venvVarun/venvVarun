@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman" />
     <img src="https://skillicons.dev/icons?i=kafka,redis,docker,jenkins,aws,gcp,bitbucket,git,github,linux,idea,vscode" /><br>
+     <img src="https://skillicons.dev/icons?i=spark,hive, hadoop" /><br>
 </div>
 <br/>
 <hr/>
