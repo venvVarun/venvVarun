@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> 
   <a href="mailto:imvarun0@gmail.com">
-    <img src="https://img.shields.io/badge/%20%20Gmail%20%20-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/%20Gmail%20-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/varun" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://venvVarun.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/WEBSITE_-FF5722?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/WEBSITE_-333333?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
