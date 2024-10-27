@@ -10,9 +10,8 @@
 
 <div align="center">
  <h4 style="font-family: 'Roboto', Century Gothic;">
-🔭 I’m currently working on **a secret project** !<img src="https://github.com/user-attachments/assets/cd0a4093-1a39-4051-8b3f-44204518b25a>
+🔭 I’m currently working on **Web Applications and Data Engineering Projects**!
 
- 
  🌱 I’m currently learning **System Design and Data Engineering**
 
 💬 Ask me about **Java, Python, SQL, Springboot, Hadoop, Hive, Spark, GCP, AWS... or anything [here](https://github.com/venvVarun/venvVarun/issues)**
