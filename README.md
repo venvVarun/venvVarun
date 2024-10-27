@@ -34,20 +34,21 @@ You can click the Preview link to take a look at your changes.
 </div>
 
  <hr/>
- <div align="center">
-  <div style="display: inline-block; width: 150px; height: 40px;">
-    <a href="mailto:imvarun0@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 15%; height: 10%; object-fit: contain;" />
+<div style="display: flex; justify-content: space-around; align-items: center; padding: 10px;">
+  <div style="width: 150px; height: 40px;">
+    <a href="mailto:vvvvvjhjjygvvj@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" style="width: 100%; height: 100%; object-fit: contain;" />
     </a>
   </div>
-  <div style="display: inline-block; width: 150px; height: 40px;">
-    <a href="https://linkedin.com/in/varun" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 15%; height: 10%; object-fit: contain;" />
+  <div style="width: 150px; height: 40px;">
+    <a href="https://linkedin.com/in/ccvvvvbvvv" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 100%; height: 100%; object-fit: contain;" />
     </a>
   </div>
-  <div style="display: inline-block; width: 150px; height: 40px;">
-    <a href="https://venvVarun.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="width: 15%; height: 10%; object-fit: contain;" />
+  <div style="width: 150px; height: 40px;">
+    <a href="https://gfhvyu7v7vv7.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" style="width: 100%; height: 100%; object-fit: contain;" />
     </a>
   </div>
 </div>
+
