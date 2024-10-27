@@ -10,7 +10,7 @@
 
 <div align="center">
  <h4 style="font-family: 'Roboto', Century Gothic;">
-🔭 I’m currently working on **a secret project** ![image](https://github.com/user-attachments/assets/cd0a4093-1a39-4051-8b3f-44204518b25a)
+🔭 I’m currently working on **a secret project** !<img src="https://github.com/user-attachments/assets/cd0a4093-1a39-4051-8b3f-44204518b25a>
 
  
  🌱 I’m currently learning **System Design and Data Engineering**
