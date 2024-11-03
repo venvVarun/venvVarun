@@ -36,19 +36,15 @@ You can click the Preview link to take a look at your changes.
         <a href="https://github.com/venvVarun">
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&hide_border=true&theme=github_dark"/></a>
   </div>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
     <img src="https://skillicons.dev/icons?i=kafka,redis,docker,jenkins,aws,gcp,bitbucket,git,github,linux,idea,vscode&theme=dark" />
-<br/>
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-</div>
-<div align="center">
-    
-![snake_gif](https://github.com/venvVarun/venvVarun/blob/output/github-snake-dark.svg)
 
+![snake_gif](https://github.com/venvVarun/venvVarun/blob/output/github-snake-dark.svg)
 
 </div>
