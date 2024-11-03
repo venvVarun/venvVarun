@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
  <div  align="center">
   <a href="https://github.com/venvVarun">
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&hide_border=true&theme=github_dark"/>
-</div>
+
 <hr/>
-<div align="center"> 
+
   <a href="mailto:imvarun0@gmail.com">
     <img src="https://img.shields.io/badge/_Gmail_-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -39,17 +39,16 @@ You can click the Preview link to take a look at your changes.
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
     <img src="https://skillicons.dev/icons?i=kafka,redis,docker,jenkins,aws,gcp,bitbucket,git,github,linux,idea,vscode&theme=dark" />
-</div>
+
 <br/>
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <hr/>
 </div>
-
 
 ![snake_gif](https://github.com/venvVarun/venvVarun/blob/output/github-snake-dark.svg)
 
