@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 ⚡ Fun fact: Did you know that goats have accents? Just like humans, goats from different regions can have distinct vocalizations. So, if you hear a goat with a British accent, you might just be in the wrong part of town!
  </h4>
  </div>
+<br/>
 <hr/>
  <div  align="center">
   <a href="mailto:imvarun0@gmail.com">
