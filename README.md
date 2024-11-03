@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ⚡ Fun fact: Did you know that goats have accents? Just like humans, goats from different regions can have distinct vocalizations. So, if you hear a goat with a British accent, you might just be in the wrong part of town!
  </h4>
  </div>
-
+<hr/>
  <div  align="center">
   <a href="mailto:imvarun0@gmail.com">
     <img src="https://img.shields.io/badge/_Gmail_-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
         <a href="https://github.com/venvVarun">
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&hide_border=true&theme=github_dark"/></a>
   </div>
-  <br/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
