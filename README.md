@@ -51,6 +51,6 @@ You can click the Preview link to take a look at your changes.
 </br>
 </br>
 </div>
-  ![Snake animation](https://github.com/venvVarun/venvVarun/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/venvVarun/venvVarun/blob/output/github-snake-dark.svg)
 </br>
-</div>
+
