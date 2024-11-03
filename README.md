@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/venvVarun">
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&hide_border=true&theme=github_dark"/>
 
-<hr/>
-
   <a href="mailto:imvarun0@gmail.com">
     <img src="https://img.shields.io/badge/_Gmail_-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -35,7 +33,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://venvVarun.github.io" target="_blank">
      <img src="https://img.shields.io/badge/WEBSITE_-333333?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
