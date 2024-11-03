@@ -39,10 +39,8 @@ You can click the Preview link to take a look at your changes.
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
     <img src="https://skillicons.dev/icons?i=kafka,redis,docker,jenkins,aws,gcp,bitbucket,git,github,linux,idea,vscode&theme=dark" />
-
 <br/>
 <hr/>
 <div align="center">
