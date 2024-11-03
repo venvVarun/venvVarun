@@ -17,9 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ⚡ Fun fact: Did you know that goats have accents? Just like humans, goats from different regions can have distinct vocalizations. So, if you hear a goat with a British accent, you might just be in the wrong part of town!
  </h4>
- <h2></h2>
  </div>
-
  <div  align="center">
   <a href="mailto:imvarun0@gmail.com">
     <img src="https://img.shields.io/badge/_Gmail_-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -28,8 +26,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://venvVarun.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/WEBSITE_-333333?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/WEBSITE_-333333?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> 
   </a>
+      <h2></h2>
   </div>
   <div align="center">
         <a href="https://github.com/venvVarun">
