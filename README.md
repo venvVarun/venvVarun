@@ -41,8 +41,10 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=kafka,redis,docker,jenkins,aws,gcp,bitbucket,git,github,linux,idea,vscode&theme=dark" />
 </div>
 <div align="center">
-  <h2>![image](https://github.com/user-attachments/assets/eae386ef-0299-4089-9c03-3a3f24f0512a)
- My Contributions ![image](https://github.com/user-attachments/assets/dd5df0e2-8bf1-4e83-bfd3-f73448af1ffa)
+  <h2>    
+![image](https://github.com/user-attachments/assets/971e4438-cc8a-4576-9363-d0572b582cf5)
+ My Contributions
+![image](https://github.com/user-attachments/assets/bbe1239c-2ed5-4389-9f49-45a702059909)
 </h2>
 
 ![snake_gif](https://github.com/venvVarun/venvVarun/blob/output/github-snake-dark.svg)
