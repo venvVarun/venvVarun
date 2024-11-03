@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
  <hr/>
  <div  align="center">
   <a href="https://github.com/venvVarun">
-   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=donut&langs_count=16&hide_border&theme=github_dark"/>
+   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=donut&langs_count=16&hide_border=true&theme=github_dark"/>
 </div>
 <hr/>
 <div align="center"> 
