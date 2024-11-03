@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
  <hr/>
  <div>
   <a href="https://github.com/venvVarun">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&theme=github_dark"/>
+<!--    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&theme=github_dark"/> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&theme=github_dark" style="max-width: 100%; height: auto; border: none;"/>
 </div>
 <hr/>
 <div align="center"> 
