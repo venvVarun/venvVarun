@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
  </div>
  <div>
   <a href="https://github.com/venvVarun">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&background=transperant"/>
 </div>
-
+<hr/>
 <div align="center"> 
   <a href="mailto:imvarun0@gmail.com">
     <img src="https://img.shields.io/badge/_Gmail_-333333?style=for-the-badge&logo=gmail&logoColor=red" />
