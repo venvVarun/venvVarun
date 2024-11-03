@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://venvVarun.github.io" target="_blank">
      <img src="https://img.shields.io/badge/WEBSITE_-333333?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
- 
+ </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
