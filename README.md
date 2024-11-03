@@ -48,8 +48,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <hr/>
-</br>
-</br>
 </div>
 
 
