@@ -25,8 +25,8 @@ jobs:
           github_user_name: venvVarun
           outputs: |
               dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-              # dist/github-snake.svg
-              # dist/github-snake-dark.svg?palette=github-dark
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
       # - palette:      A preset of color, one of [github, github-dark, github-light]
       # - color_snake:  Color of the snake
       # - color_dots:   Coma separated list of dots color. 
