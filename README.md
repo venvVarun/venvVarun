@@ -11,8 +11,11 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  <h4 style="font-family: 'Roboto', Century Gothic;">
 🔭 I’m currently working on web applications and data engineering projects!
+     
  🌱 I’m currently learning system design and data engineering
+ 
 💬 Ask me about anything [here!](https://github.com/venvVarun/venvVarun/issues)
+
 ⚡ Fun fact: Did you know that goats have accents? Just like humans, goats from different regions can have distinct vocalizations. So, if you hear a goat with a British accent, you might just be in the wrong part of town!
  </h4>
  </div>
@@ -30,6 +33,7 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.shields.io/badge/WEBSITE_-333333?style=for-the-badge&logo=alienware&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   </div>
+  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,angular,hibernate,maven,mongodb,mysql,postgres,postman&theme=dark" />
