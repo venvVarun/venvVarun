@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
  </h4>
  </div>
  <hr/>
- <div>
+ <div  align="center">
   <a href="https://github.com/venvVarun">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=donut&langs_count=16&border_color=black&theme=github_dark"/>
+   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=donut&langs_count=16&border_color=black&theme=github_dark"/>
 </div>
 <hr/>
 <div align="center"> 
