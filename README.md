@@ -51,6 +51,8 @@ You can click the Preview link to take a look at your changes.
 </br>
 </br>
 </div>
+
+
 ![snake_gif](https://github.com/venvVarun/venvVarun/blob/output/github-snake-dark.svg)
-</br>
+
 
