@@ -19,14 +19,11 @@ You can click the Preview link to take a look at your changes.
 ⚡ Fun fact: Did you know that goats have accents? Just like humans, goats from different regions can have distinct vocalizations. So, if you hear a goat with a British accent, you might just be in the wrong part of town!
  </h4>
  </div>
+ <hr/>
  <div>
   <a href="https://github.com/venvVarun">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&theme=github_dark" style="border: none;"/>
 </div>
-<div style="border: none; display: inline-block;">
-      <a href="https://github.com/venvVarun">
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&theme=github_dark)
-</div>   
 <hr/>
 <div align="center"> 
   <a href="mailto:imvarun0@gmail.com">
