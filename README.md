@@ -15,14 +15,12 @@ You can click the Preview link to take a look at your changes.
  
 💬 Ask me about anything [here!](https://github.com/venvVarun/venvVarun/issues)
 
-⚡ Why do programmers prefer dark mode? 
+⚡ Why do programmers prefer dark mode?                                
 
  </h4>
-  <div style="font-size: 24px; position: relative; transition: color 0.5s ease;" 
-         onmouseover="this.style.color='transparent'; this.innerHTML='But dark mode keeps them away! 🕶️';" 
-         onmouseout="this.style.color=''; this.innerHTML='Because light attracts bugs! 💻🌙🐞';">
-        Because light attracts bugs! 💻🌙🐞
-    </div>
+<h4 style="font-size: 24px; display: inline;" onmouseover="this.innerHTML='But dark mode keeps them away! 🕶️';" onmouseout="this.innerHTML='Because light attracts bugs! 💻🌙🐞';">
+    Because light attracts bugs! 💻🌙🐞
+</h4>
  </div>
  <div  align="center">
   <a href="mailto:imvarun0@gmail.com">
