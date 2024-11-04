@@ -15,8 +15,14 @@ You can click the Preview link to take a look at your changes.
  
 💬 Ask me about anything [here!](https://github.com/venvVarun/venvVarun/issues)
 
-⚡ Fun fact: Did you know that goats have accents? Just like humans, goats from different regions can have distinct vocalizations. So, if you hear a goat with a British accent, you might just be in the wrong part of town!
+⚡ Why do programmers prefer dark mode? 
+
  </h4>
+  <div style="font-size: 24px; position: relative; transition: color 0.5s ease;" 
+         onmouseover="this.style.color='transparent'; this.innerHTML='But dark mode keeps them away! 🕶️';" 
+         onmouseout="this.style.color=''; this.innerHTML='Because light attracts bugs! 💻🌙🐞';">
+        Because light attracts bugs! 💻🌙🐞
+    </div>
  </div>
  <div  align="center">
   <a href="mailto:imvarun0@gmail.com">
