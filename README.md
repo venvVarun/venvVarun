@@ -14,9 +14,6 @@ You can click the Preview link to take a look at your changes.
  🌱 I’m currently learning system design and data engineering
  
 💬 Ask me about anything [here!](https://github.com/venvVarun/venvVarun/issues)
-
-⚡ Why do programmers prefer dark mode?       Because light attracts bugs! 💻🌙🐞                         
-
  </h4>
 </h4>
  </div>
