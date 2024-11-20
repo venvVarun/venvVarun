@@ -49,5 +49,5 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <h2>Certificates</h2>
-    <img src="https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"/>
+    <img align="center" height="200" width="200" src="https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"/>
 </div>
