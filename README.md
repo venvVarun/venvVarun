@@ -49,6 +49,6 @@ You can click the Preview link to take a look at your changes.
 
 <div>
     <h2>📜 Certificates </h2>
-    <a href="https://www.credly.com/badges/2f592cfd-e3b5-4361-8ce9-44e354c43d32/email" target="_blank">
+    <a href="https://www.credly.com/badges/2f592cfd-e3b5-4361-8ce9-44e354c43d32/email" target="_blank" rel="noopener noreferrer">
     <img align="center" height="150" width="150" src="https://images.credly.com/size/340x340/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png"/></a>
 </div>
