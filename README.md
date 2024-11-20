@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venvVarun&layout=compact&langs_count=16&hide_border=true&theme=github_dark"/></a>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=venvVarun&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues&hide_border=true"/>
   </div>
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2f592cfd-e3b5-4361-8ce9-44e354c43d32" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div align="center">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
